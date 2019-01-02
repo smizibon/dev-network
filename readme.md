@@ -14,9 +14,9 @@ API :
 React :  
 - [x] Landing page
 - [x] Register
-- [ ] Profile crud
-- [ ] user crud
-- [ ] Login
+- [x] Profile crud
+- [x] user crud
+- [x] Login
 - [ ] Post comment by user
 - [ ] comment on other users comment
 
