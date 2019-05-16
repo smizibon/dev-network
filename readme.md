@@ -17,8 +17,8 @@ React :
 - [x] Profile crud
 - [x] user crud
 - [x] Login
-- [ ] Post comment by user
-- [ ] comment on other users comment
+- [x] Post comment by user
+- [x] comment on other users comment
 
 
 The project does not have a keys.js file in 'server/config' 
