@@ -28,3 +28,6 @@ module.exports = {
   mongoURI: "",
   secretOrKey: 'secret12'
 }; 
+
+********************************************************************************************************
+to have a glance at the project take a look at the 'project recording.mp4' file  or the screenshots
